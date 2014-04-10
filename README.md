@@ -2,7 +2,7 @@ pandoc-wxpython
 ===============
 
 This is a very basic GUI front-end to John MacFarlane's pandoc, written in
-wxpython. Please feel free to adapt it to your own ends.
+python and using wxpython 3.0. Please feel free to adapt it to your own ends.
 
 Note, that the code is for Python 2.7 and you will need a working copy of pandoc
 already installed. Pandoc can be downloaded from [John MacFarlane's
